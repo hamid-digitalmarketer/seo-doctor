@@ -6,6 +6,9 @@
 [![Tests: 23/23 Passing](https://img.shields.io/badge/tests-23%2F23%20passed-success.svg)](tests/)
 [![Code Style: Ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 [![Type Checked: Mypy](https://img.shields.io/badge/type%20checked-mypy-blue.svg)](https://github.com/python/mypy)
+[![Hire Me: Technical SEO Audits](https://img.shields.io/badge/Hire%20Me-SEO%20Audits%20%26%20Consulting-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://abouthamid.web.app/)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamid-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
+[![Direct Email](https://img.shields.io/badge/Email-mhamidlad%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mhamidlad@gmail.com)
 [![Cost: $0.00 Free](https://img.shields.io/badge/cost-%240.00%20free-brightgreen.svg)](#pricing--free-open-source)
 
 A free, production-grade, open-source **technical SEO auditor, crawler, and site diagnostics engine**. Designed for business owners, SEO freelancers, marketing agencies, and web developers who need to identify indexing blockers, broken link equity, duplicate metadata, canonical tag conflicts, and crawl regressions—**without expensive monthly software subscriptions**.
@@ -213,6 +216,46 @@ seo-doctor/
 - [ ] Core Web Vitals (LCP, CLS, FID) integration via Chrome Performance API.
 - [ ] Internationalization (hreflang) tag validation across multi-lingual paths.
 - [ ] Automated Google Search Console URL Inspection API sync.
+
+---
+
+## 💼 Done-For-You Technical SEO Audits & Organic Growth Consulting
+
+> **Stop letting silent technical defects strangle your organic search revenue.** 404 errors on high-equity backlinks, broken canonical chains, and runaway crawl bloat silently prevent high-margin organic traffic from converting.
+
+With **7+ years as a Digital Marketing Head** leading organic growth, technical SEO architecture, and e-commerce optimization across the US, UK, and international markets (including growing organic traffic by **40%** and cutting acquisition costs by **70%**), I help brands fix deep technical bottlenecks and capture dominant Google rankings.
+
+### 🎯 Available Services & Engagement Tiers
+
+| Service Tier | Best For | What's Included | Typical Impact |
+|---|---|---|---|
+| **🔍 Deep-Dive Technical SEO Audit** | Sites with 500 to 100,000+ pages | Full architecture crawl, canonical & redirect chain audit, index bloat resolution, orphan page discovery, Core Web Vitals review + prioritized dev backlog | Unlocks blocked indexation; recovers lost PageRank equity |
+| **⚙️ Turnkey SEO Migration & Technical Implementation** | E-commerce replatforming (Shopify, WooCommerce, headless) | Pre- and post-launch crawl comparison, 301 redirect mapping, XML sitemap re-engineering, Schema.org JSON-LD structured data deployment | Zero organic traffic drops during site redesigns and domain migrations |
+| **👑 Organic Growth & Technical SEO Retainer** | Scaling brands & multi-brand portfolios | Continuous technical health monitoring, automated regression testing in CI/CD, internal link optimization, and topical authority clustering | Predictable organic revenue compounding, +40% to +120% YoY organic search growth |
+
+---
+
+### 🚀 Ready to Unlock Your Organic Search Potential?
+
+Connect with **Muhammad Hamid** to schedule an audit or discuss technical consulting:
+
+- 🌐 **Portfolio & Case Studies**: [abouthamid.web.app](https://abouthamid.web.app/)
+- 💼 **LinkedIn Profile**: [linkedin.com/in/muhammad-hamid-digital-marketing](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
+- 📩 **Direct Business Email**: [`mhamidlad@gmail.com`](mailto:mhamidlad@gmail.com)
+- 📅 **Book a 1-on-1 Strategy Call**: [Schedule Discovery Call](https://abouthamid.web.app/)
+
+<p align="center">
+  <a href="https://abouthamid.web.app/"><img src="https://img.shields.io/badge/Book%20SEO%20Audit-abouthamid.web.app-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Book Audit"></a>
+  <a href="https://www.linkedin.com/in/muhammad-hamid-digital-marketing/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hamid-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mhamidlad@gmail.com"><img src="https://img.shields.io/badge/Email-mhamidlad%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 👤 Author & Open Source Community
+
+Created and maintained by **Muhammad Hamid** ([@hamid-digitalmarketer](https://github.com/hamid-digitalmarketer)).  
+Found an indexing bug or want to suggest a new crawl check? Open an [issue](https://github.com/hamid-digitalmarketer/seo-doctor/issues) or submit a pull request!
 
 ---
 
